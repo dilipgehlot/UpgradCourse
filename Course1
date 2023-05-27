@@ -10,3 +10,6 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Dilip Gehlot
+Linear Regression
+It is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. 
